@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tresor Bipa</h1>
-<h3 align="center">A passionate FullStack developer</h3>
+<h3 align="center">A Passionate FullStack Developer</h3>
 
 <img align="right" alt="cybersecurity" width="400" src="https://media4.giphy.com/media/v7WM6sLcnGIc8/giphy.gif">
 
