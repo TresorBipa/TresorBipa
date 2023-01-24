@@ -1,4 +1,3 @@
-![logo](https://github.com/TresorBipa/TresorBipa/blob/main/github-logo.jpg)
 <h1 align="center">Hi 👋, I'm Tresor Bipa</h1>
 <h3 align="center">A Passionate FullStack Developer</h3>
 
