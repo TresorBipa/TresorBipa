@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tresor Bipa</h1>
 <h3 align="center">A Passionate FullStack Developer</h3>
 
-<img align="center" alt="warning security attack" width="400" src="https://media.tenor.com/zQtIVihPry8AAAAC/warning-cyber-attack.gif">
+<img align="right" alt="warning security attack" width="400" src="https://media.tenor.com/zQtIVihPry8AAAAC/warning-cyber-attack.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tresorbipa&label=Profile%20views&color=0e75b6&style=flat" alt="tresorbipa" /> </p>
 
