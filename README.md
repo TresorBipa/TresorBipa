@@ -18,4 +18,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tresorbipa&show_icons=true&theme=radical" alt="tresorbipa" alt="tresorbipa"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tresorbipa&" alt="tresorbipa" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tresorbipa&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="tresorbipa" /></p>
+
