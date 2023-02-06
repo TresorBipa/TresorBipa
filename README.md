@@ -11,7 +11,6 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tresor-bipa-6530a495/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tresor-bipa-6530a495/" height="30" width="40" /></a>
 </p>
 
-
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
@@ -33,4 +32,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tresorbipa&show_icons=true&theme=radical" alt="tresorbipa" alt="tresorbipa"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tresorbipa&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="tresorbipa" /></p>
+
+ <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
